@@ -1,6 +1,6 @@
 {
   "LTBConnectNM": {
-    "latest": "0.0.0",
-    "package": ""
+    "latest": "1.0.0",
+    "package": "https://github.com/bryan-foley/LTB-Releases/releases/download/v1.0.0/LTBConnectNM-v1.0.0.tar.gz"
   }
 }
