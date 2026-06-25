@@ -1,1 +1,6 @@
-All Rights Reserved.
+All Rights Reserved License
+Copyright (c) [2023] [Bryan Foley]
+All rights reserved.
+Reproduction, distribution, or transmission of this work, in whole or in part, by any means—including photocopying, recording, or other electronic or mechanical methods—is strictly prohibited without the express written permission of the copyright owner, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+For permission requests or licensing inquiries, please contact:
+Bryan Foley at LTBSacramento@gmail.com
